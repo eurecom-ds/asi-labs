@@ -46,7 +46,8 @@ Here is the list of the labs:
 
 | Subject  | Link | Notes|
 |:---------|:-----|:-----|
-| **Bayesian linear regression**    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/labs/01_Bayesian_Linear_Regression.ipynb)| Complete tutorial 1 before starting this lab. |
+| **Bayesian linear regression**    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/labs/01_Bayesian_Linear_Regression.ipynb)| Complete Numpy's tutorial before starting this lab. |
+| **Bayesian logistic regression with MCMC**    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/labs/02_Classification_with_MCMC.ipynb)| Complete JAX's tutorial before starting this lab. |
 
 
 
